@@ -2,7 +2,7 @@
 
 
 if [[ -z "$NGROK_TOKEN" ]]; then
-  echo "Please set 'NGROK_TOKEN'"
+  echo "2B6tjF32JDv0bsNAs604qZj5Sh2_rPJtMk8P8urREMM7CubR'"
   exit 2
 fi
 
